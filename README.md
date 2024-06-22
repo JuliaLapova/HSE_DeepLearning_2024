@@ -1,6 +1,6 @@
 # My Homeworks from HSE DeepLearning course.
 
-![HSE](HSE.png)
+![image](https://github.com/JuliaLapova/HSE_DeepLearning_2024/assets/119416226/974874d0-2430-408f-9b8e-fcdf50efe7ff)
 
 
 
